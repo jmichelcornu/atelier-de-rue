@@ -1,14 +1,10 @@
 # Café itinérant
 
-## En une phrase  
-
 Le café itinérant est une initiative collective où plusieurs personnes se rassemblent dans l'espace public avec des chaises (et tables) pour prendre le café. Il est itinérant car il peut se déplacer informellement de lieux en lieux.
 
-[En vidéo](https://www.youtube.com/watch?v=1--XI4_fszc)
+## Démonstration en vidéo (7mn)
 
-![Café Sourire](http://farm1.staticflickr.com/128/377287812_46088fad92_z.jpg?zz=1)
-
-Photo par [John Haslam](https://www.flickr.com/photos/foxypar4/377287812) sous licence Creative Commons BY
+<iframe width="640" height="420" src="https://www.youtube.com/embed/1--XI4_fszc" frameborder="0" allowfullscreen></iframe>
 
 ## A quoi ça sert ?
 
@@ -19,6 +15,9 @@ Photo par [John Haslam](https://www.flickr.com/photos/foxypar4/377287812) sous l
 * Trouver les mêmes qualités d'une terrasse de café sans dépenser d'argent.
 
 ## Présentation 
+
+![Café Sourire](http://farm1.staticflickr.com/128/377287812_46088fad92_z.jpg?zz=1)
+*[John Haslam](https://www.flickr.com/photos/foxypar4/377287812) sous licence Creative Commons BY*
 
 Le café itinérant est un événement organisable par tout à chacun. C'est un moment très convivial qui permet de changer nos habitudes de vie quotidiennes. Il propose de prendre le temps de sortir,  de rentabiliser et optimiser son temps et d'apprécier les rencontres inopinées. 
 
