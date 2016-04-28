@@ -2,6 +2,8 @@
 
 > L'outil smiley est un double panneau individuel à brandir soit de son côté positif soit de son côté négatif. 
 
+![happy](https://framapic.org/gDu1EO27JPyB/MeHBT1I1zMbf.png)
+
 ## A quoi ça sert ?
 
 * s'exprimer spontanément face à une situation.
@@ -25,6 +27,8 @@ Matériel :
  
 Cet outil s'utiise lors de balades urbaines. Chaque membre du groupe est muni d'un panneau smiley et peut le brandir à tout moment pour signifier un avis sur la situation urbaine qu'il traverse. 
 Les autres membre du groupe sont libres de se positionner ou non.
+
+![no](https://framapic.org/d/aC76XNIL16Wq/vUuDTBzjydLHg1brLBodYaK6)
 
 ## Restitution
 
@@ -53,10 +57,10 @@ expression directe, alternative à la parole.
 
 cet outil ne doit pas être utilisé uniquement comme signification d'un jugement personnel mais doit aboutir à une réflection.
 
-Compilation, traduction et présentation
+## Compilation, traduction et présentation
 
 Collectif Chiendent (Antoine Canazzi, Flore Corriere, Corentin Seyfried)
 
-## Sources
+## Inspirations
 
 www.lamanufacturedespaysages.org
